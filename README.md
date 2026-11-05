@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/profile-header.svg" alt="Mostafa Salman — DevOps, embedded systems and security engineering" width="100%">
+  <img src="./assets/profile-header.svg" alt="Mostafa — DevOps, embedded systems and security engineering" width="100%">
 </div>
 
 ### `$ whoami`
