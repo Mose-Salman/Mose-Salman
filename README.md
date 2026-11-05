@@ -2,7 +2,7 @@
 
 ## $ whoami
 
-Hi! I'm **Mostafa Salman**, an **Information Engineer** based in Hamburg, Germany.
+Hi! I'm **Mostafa**, an **Information Engineer** based in Hamburg, Germany.
 
 I work at the intersection of **DevOps, embedded systems, and security engineering** — building CI/CD automation, developer tooling, and reliable workflows for semiconductor environments.
 
