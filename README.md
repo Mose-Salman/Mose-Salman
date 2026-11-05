@@ -2,25 +2,15 @@
 
 ## $ whoami
 
-Hi! I'm **Mostafa**, an **Information Engineer** based in Hamburg, Germany.
+Hi, I'm **Mostafa** — an Information Engineer based in Hamburg, Germany.
 
-I work at the intersection of **DevOps, embedded systems, and security engineering** — building CI/CD automation, developer tooling, and reliable workflows for semiconductor environments.
+I work where **DevOps meets embedded security**: building CI/CD pipelines, test automation, and developer tooling for embedded systems. Currently working on secure-element engineering infrastructure at **NXP Semiconductors**.
 
-My work includes secure-element development infrastructure and hardware-in-the-loop testing at **NXP Semiconductors**.
+[Portfolio](https://mostafa-salman.me) · [Public projects](https://github.com/Mose-Salman?tab=repositories&type=public)
 
-Explore my [portfolio](https://mostafa-salman.me) or browse my public repositories below.
+## $ ls ~/focus
 
----
-
-## $ ls expertise/
-
-```text
-devops/     CI/CD · Jenkins · Docker · Kubernetes · Terraform · Ansible
-security/   PKI · HSM · Secure Elements · Secure Firmware Updates
-embedded/   Linux · Python · C/C++ · FPGA · Hardware-in-the-Loop
-operations/ Prometheus · Grafana · Automation · Observability
-```
-
----
-
+- `platform/` — CI/CD, Kubernetes, Terraform, observability
+- `embedded/` — Linux, Python, C/C++, hardware-in-the-loop
+- `security/` — PKI, HSM, secure elements
 
