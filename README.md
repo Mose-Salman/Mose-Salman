@@ -1,16 +1,32 @@
-## Hi there 👋
+# mostafa@github: ~
 
-<!--
-**Mose-Salman/Mose-Salman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## $ whoami
 
-Here are some ideas to get you started:
+Hi! I'm **Mostafa Salman**, an **Information Engineer** based in Hamburg, Germany.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work at the intersection of **DevOps, embedded systems, and security engineering** — building CI/CD automation, developer tooling, and reliable workflows for semiconductor environments.
+
+My work includes secure-element development infrastructure and hardware-in-the-loop testing at **NXP Semiconductors**.
+
+Explore my [portfolio](https://mostafa-salman.me) or browse my public repositories below.
+
+---
+
+## $ ls expertise/
+
+```text
+devops/     CI/CD · Jenkins · Docker · Kubernetes · Terraform · Ansible
+security/   PKI · HSM · Secure Elements · Secure Firmware Updates
+embedded/   Linux · Python · C/C++ · FPGA · Hardware-in-the-Loop
+operations/ Prometheus · Grafana · Automation · Observability
+```
+
+---
+
+## $ ls public-stats
+
+| GitHub activity | Most used public languages |
+| :---: | :---: |
+| ![Mostafa's public GitHub activity](https://github-readme-stats.vercel.app/api?username=Mose-Salman&show_icons=true&theme=github_dark&hide_border=true) | ![Mostafa's public repository languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mose-Salman&layout=compact&theme=github_dark&hide_border=true) |
+
+<sub>These third-party cards primarily reflect public GitHub data. Private repositories and their details are not exposed here.</sub>
